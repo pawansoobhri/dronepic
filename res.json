@@ -1,5 +1,4 @@
-{
-    "profile":
+
         {
             "username":"eric",
             "bio":"Cofounder of Thinkster.io, kinda looks like Peeta from the Hunger Games",
@@ -7,4 +6,3 @@
             "following":false,
             "department":"GITS"
         }
-}
