@@ -1,0 +1,22 @@
+{
+    "mission": "To provide a product which does several complicated & lifesaving jobs for scientific sectors and military sectors from home in simpler way. Einstein said: Genius always made complex ideas simple not simple ideas complex.",
+    "vision": "To be a leader in Drone industry across the Globe",
+    "homePage": [
+	
+        {
+            "title": "Welcome to the World of Drones",
+            "description": "Unmanned aerial vehicles (UAVS), also known as drones, are aircraft either controlled by ‘pilots’ from the ground or increasingly, autonomously following a pre-programmed mission.  While there are dozens of different types of drones, they basically fall into two categories: those that are used for reconnaissance and surveillance purposes and those that are armed with missiles and bombs.",
+            "image": "http://dronepic.co.in/img/rec5.png"
+        },
+        {
+            "title": "Some Interesting Facts about Drones",
+            "description": "<ul><li>The first “armed” drones were built to get Osama bin Laden.</li><li>The United States built the first drone before the 9/11 attacks, but it was not ready for deployment.</li></ul>",
+            "image": "http://factfile.org/wp-content/uploads/2016/12/Drones-Pic.jpg"
+        },
+        {
+            "title": "Application of Drones",
+            "description": "<ul><li>Agriculture</li><li>Construction</li><li>Monitoring</li></ul>",
+            "image": "http://dronepic.co.in/img/ser.jpg"
+        }
+    ]
+}
