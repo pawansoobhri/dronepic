@@ -6,19 +6,20 @@
     "homePage": [
 	
         {
-            "title": "Happy Birthday Suman",
-            "description": "Whatever dream you're dreaming,<br> May each one of them come true,<br> Whatever plans you're making,<br> May they all work out for you",
-            "image": "https://4.bp.blogspot.com/-jkrWrVrM3h8/WNPxfb1YxvI/AAAAAAAARlo/HQDYziL5QZkCSZ337jhYKm52vgxIt7D3QCEw/s320/Desktop1.jpg"
+            "title": "Welcome to the World of Drones",
+            "description": "Unmanned aerial vehicles (UAVS), also known as drones, are aircraft either controlled by ‘pilots’ from the ground or increasingly, autonomously following a pre-programmed mission.  While there are dozens of different types of drones, they basically fall into two categories: those that are used for reconnaissance and surveillance purposes and those that are armed with missiles and bombs.",
+            "image": "http://dronepic.co.in/img/rec5.png"
         },
         {
-            "title": "Buday!! Buday!! Buday!!",
-            "description": "Happy birthday!<br> May your special day be the beginning of a year blessed with good fortune, good health and great joy.",
-            "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/15741023_765349383618404_4677277724930812803_n.jpg?oh=6c8be2e782aa830d2365ad8f2fa9a323&oe=5959B156"
+            "title": "Some Interesting Facts about Drones",
+            "description": "<ul><li>The first “armed” drones were built to get Osama bin Laden.</li><li>The United States built the first drone before the 9/11 attacks, but it was not ready for deployment.</li></ul>",
+            "image": "http://factfile.org/wp-content/uploads/2016/12/Drones-Pic.jpg"
         },
         {
-            "title": "Celebrate your Day!!!!",
-            "description": "My heartiest wishes and blessing for you. <br> I wish you achieve your goals.<br><b>You are the first person to be wished on this App.</b>",
-            "image": "https://scontent.fmaa1-2.fna.fbcdn.net/v/t34.0-12/17495396_1305073212891369_284849086_n.jpg?oh=65f8635f03fd3085f68b423cd168dc23&oe=58D5EFB3"
+            "title": "Application of Drones",
+            "description": "<ul><li>Agriculture</li><li>Construction</li><li>Monitoring</li></ul>",
+            "image": "http://dronepic.co.in/img/ser.jpg"
         }
     ]
 }
+
